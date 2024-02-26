@@ -10,7 +10,7 @@ random.shuffle(lst)
 data = pd.DataFrame({'whoAmI'lst})
 data.head() |
 _____________________________________________
-
+```cs
 import pandas as pd 
 import numpy as np 
 import random
